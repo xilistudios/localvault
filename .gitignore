@@ -1,0 +1,24 @@
+# Binaries
+bin/
+localvault
+*.exe
+
+# Keyring encrypted files
+*.enc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Go
+vendor/
+
+# Temp
+*.tmp
